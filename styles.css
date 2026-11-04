@@ -482,6 +482,11 @@ button {
   --brand-shadow: rgba(37, 211, 102, 0.7);
 }
 
+.social__card--google {
+  --brand: #4285f4;
+  --brand-shadow: rgba(66, 133, 244, 0.7);
+}
+
 .social__card:hover,
 .social__card:focus-visible,
 .social__card.is-pressed {
